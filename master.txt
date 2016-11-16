@@ -1,4 +1,4 @@
 I am in master.
 This file was updated.
-This file was updated.
+Branch file was updated.
 File updated by master
